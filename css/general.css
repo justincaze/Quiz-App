@@ -102,6 +102,7 @@ a:active {
   max-width: 120rem;
   padding: 0 3.2rem;
   margin: 0 auto;
+  margin-bottom: 12rem;
 }
 
 .grid {
@@ -153,6 +154,8 @@ a:active {
   line-height: 1.1;
   font-weight: 100;
   letter-spacing: 1.4rem;
+
+  color: #e0aca4;
 
   text-transform: uppercase;
 }
