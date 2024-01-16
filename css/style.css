@@ -86,6 +86,20 @@ svg {
 }
 
 footer {
-  position: static;
-  bottom: 0;
+  position: fixed;
+  height: 7.4rem;
+  /* width: 100%; */
+  background-color: #e0aca4;
+  bottom: 1.2rem;
+
+  box-shadow: 0 2rem 8rem rgba(0, 0, 0, 0.2);
+  border-radius: 11px;
+
+  /* overflow: hidden; */
+  transition: all 0.4s;
 }
+/* 
+footer:hover {
+  transform: translateY(-8.6rem);
+  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.2);
+} */
